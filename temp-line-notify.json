@@ -1,3 +1,4 @@
 {
-  "testNotify" : 1
+  "testNotify" : 1,
+  "dangerNotify" : 1
 }
