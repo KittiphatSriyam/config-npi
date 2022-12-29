@@ -1,5 +1,5 @@
 {
   "testNotify" : "Y",
   "warningMode" : "Y",
-  "dangerMode" : "N",
+  "dangerMode" : "N"
 }
