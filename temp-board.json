@@ -1,7 +1,7 @@
 {
   "stopNotify" : 0,
-  "testNotify" : 0,
-  "warningNotify" : 0,
+  "testNotify" : 1,
+  "warningNotify" : 1,
   "dangerNotify" : 0,
   "lineMsgDelay" : 300,
   "boardDelay" : 2000,
