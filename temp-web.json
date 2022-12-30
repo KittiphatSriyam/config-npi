@@ -1,20 +1,9 @@
 {
   "range" : {
     "tempOrHeat" :[
+
                 {
-                  "min": 0,
-                  "max": 25,
-                  "backgroundColor": "rgba(17, 147, 0,0.6)",
-                  "borderColor": "rgba(17, 147, 0,1)"
-                },
-                {
-                  "min": 26,
-                  "max": 29,
-                  "backgroundColor": "rgba(255, 242, 0,0.6)",
-                  "borderColor": "rgba(255, 242, 0,1)"
-                },
-                {
-                  "min": 30,
+                  "min": 20,
                   "max": 100,
                   "backgroundColor": "rgba(255, 0, 51,0.6)",
                   "borderColor": "rgba(255, 0, 51,1)"
