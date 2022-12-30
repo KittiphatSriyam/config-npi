@@ -3,5 +3,6 @@
   "warningNotify" : 0,
   "dangerNotify" : 0,
   "lineMsgDelay" : 300,
-  "boardDelay" : 2000
+  "boardDelay" : 2000,
+  "stopNotify" : 0
 }
