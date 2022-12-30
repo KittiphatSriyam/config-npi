@@ -1,8 +1,10 @@
 {
+  "stopNotify" : 0,
   "testNotify" : 0,
   "warningNotify" : 0,
   "dangerNotify" : 0,
   "lineMsgDelay" : 300,
   "boardDelay" : 2000,
-  "stopNotify" : 0
+  "dangerTitle" : "🚨อุณหภูมิห้องผิดปกติ🚨",
+  "warningTitle" : "🟡เฝ้าระวังอุณหภูมิห้อง🟡"
 }
