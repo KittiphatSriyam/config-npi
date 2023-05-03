@@ -3,7 +3,7 @@
   "testNotify" : 0,
   "warningNotify" : 0,
   "dangerNotify" : 0,
-  "lineMsgDelay" : 300,
+  "lineMsgDelay" : 1800,
   "boardDelay" : 2000,
   "dangerTitle" : "🚨อุณหภูมิห้องผิดปกติ🚨",
   "dangerPackage" : 11538,
