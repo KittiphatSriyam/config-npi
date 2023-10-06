@@ -1,5 +1,5 @@
 {
-  "stopNotify" : 1,
+  "stopNotify" : 0,
   "testNotify" : 0,
   "warningNotify" : 0,
   "dangerNotify" : 0,
